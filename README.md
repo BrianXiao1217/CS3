@@ -5,8 +5,9 @@ Welcome to this repository for your independent case study. You will need to upd
 Currently you can find
 - Raw Data in the Data folder
     - This countains data of reddit posts and comments from three political subreddits (Democrat, republicans, Political Discussion)
-- A script for converting the raw JSON into a csv file
-- A script for using vader to attach a sentiment score to texts
+- Some supplementary scripts in the Scripts folder
+    - A script for converting the raw JSON into a csv file
+    - A script for using vader to attach a sentiment score to texts
 - A MIT License
 
 To run the scripts, make sure you have installed the following:
