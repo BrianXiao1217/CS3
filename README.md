@@ -18,3 +18,6 @@ nltk
 vaderSentiment
 
 You can install them with pip install <module>
+
+
+For your case study, make sure to follow the supplied rubric, understand the given code, and generate visualizations.
